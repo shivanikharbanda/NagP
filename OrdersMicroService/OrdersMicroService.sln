@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersMicroService", "OrdersMicroService.csproj", "{0E0F7C8E-D272-4543-8D6B-C3CD0D5EE79C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0F7C8E-D272-4543-8D6B-C3CD0D5EE79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0F7C8E-D272-4543-8D6B-C3CD0D5EE79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0F7C8E-D272-4543-8D6B-C3CD0D5EE79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0F7C8E-D272-4543-8D6B-C3CD0D5EE79C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F84AEE7-FAD3-40DE-BE43-7881CBD01580}
+	EndGlobalSection
+EndGlobal
